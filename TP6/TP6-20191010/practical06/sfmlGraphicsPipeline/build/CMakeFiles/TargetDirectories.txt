@@ -1,0 +1,3 @@
+/home-reseau/rbelafia/4ANNEE/GRAPHIQUE/TP6/TP6-20191010/practical06/sfmlGraphicsPipeline/build/CMakeFiles/edit_cache.dir
+/home-reseau/rbelafia/4ANNEE/GRAPHIQUE/TP6/TP6-20191010/practical06/sfmlGraphicsPipeline/build/CMakeFiles/SFML_GRAPHICS_PIPELINE.dir
+/home-reseau/rbelafia/4ANNEE/GRAPHIQUE/TP6/TP6-20191010/practical06/sfmlGraphicsPipeline/build/CMakeFiles/rebuild_cache.dir
